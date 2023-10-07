@@ -1,5 +1,6 @@
-#include <stdio.h>
 
+#include <stdio.h>
+// https://www.hackerrank.com/challenges/pointer-in-c/problem
 void update(int *a,int *b) {
 	// Complete this function    
 	int sum = *a + *b;
