@@ -38,6 +38,7 @@ int main()
         printf("FAILED to allocate memory");
         return 0;
     }
+
     while (total_number_of_queries--) {
         int type_of_query;
         scanf("%d", &type_of_query);
